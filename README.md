@@ -20,6 +20,11 @@ the PO closes automatically. Buyer and supplier may also cancel an Accepted or
 Funded PO together; a Funded PO refunds only its remaining unpaid value to the
 buyer.
 
+## CLI walkthrough
+
+For step-by-step Stellar CLI commands that create and fund a PO, see
+[docs/CLI-WALKTHROUGH.md](docs/CLI-WALKTHROUGH.md).
+
 ## Evidence
 
 The project has 64 host tests, hosted local-ledger proofs for the flagship
